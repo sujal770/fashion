@@ -1,0 +1,575 @@
+/* Here are the list of font
+
+ for logo : Caveat
+  for Nav bar: Rajdhani
+  for Heading : Nunito Sans (700)
+  for paragraph: PT Sans regular
+
+*/
+
+/*------------------------------------------------*/
+/* for the logo */
+
+@import url("https://fonts.googleapis.com/css2?family=Anton&family=Arvo:ital,wght@0,400;0,700;1,400;1,700&family=Bungee+Spice&family=Caveat:wght@400..700&family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Fjalla+One&family=Khand:wght@300&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Outfit:wght@100..900&family=Playfair+Display+SC:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&family=Quicksand:wght@300..700&family=Sedan:ital@0;1&display=swap");
+
+/* for the nav-list */
+@import url("https://fonts.googleapis.com/css2?family=Anton&family=Arvo:ital,wght@0,400;0,700;1,400;1,700&family=Bungee+Spice&family=Caveat:wght@400..700&family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Fjalla+One&family=Khand:wght@300&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Outfit:wght@100..900&family=Playfair+Display+SC:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&family=Quicksand:wght@300..700&family=Rajdhani:wght@300;400;500;600;700&family=Sedan:ital@0;1&display=swap");
+
+/* for the h4 element font */
+
+@import url("https://fonts.googleapis.com/css2?family=Anton&family=Arvo:ital,wght@0,400;0,700;1,400;1,700&family=Bungee+Spice&family=Caveat:wght@400..700&family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Fjalla+One&family=Khand:wght@300&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&family=Outfit:wght@100..900&family=Playfair+Display+SC:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&family=Quicksand:wght@300..700&family=Rajdhani:wght@300;400;500;600;700&family=Sedan:ital@0;1&display=swap");
+
+/* this is for the paragraph font */
+@import url("https://fonts.googleapis.com/css2?family=Anton&family=Arvo:ital,wght@0,400;0,700;1,400;1,700&family=Bungee+Spice&family=Caveat:wght@400..700&family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Fjalla+One&family=Khand:wght@300&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&family=Outfit:wght@100..900&family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&family=Quicksand:wght@300..700&family=Rajdhani:wght@300;400;500;600;700&family=Sedan:ital@0;1&display=swap");
+
+/* for the poster para text */
+@import url("https://fonts.googleapis.com/css2?family=Anton&family=Arvo:ital,wght@0,400;0,700;1,400;1,700&family=Bungee+Spice&family=Caveat:wght@400..700&family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Fjalla+One&family=Khand:wght@300&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&family=Outfit:wght@100..900&family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&family=Quicksand:wght@300..700&family=Rajdhani:wght@300;400;500;600;700&family=Reddit+Mono:wght@200..900&family=Sedan:ital@0;1&display=swap");
+
+/* for the h3 text for the grid text such as instagram */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+/* for the title such as latest news page */
+@import url('https://fonts.googleapis.com/css2?family=Cactus+Classical+Serif&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+/* for the card h2 text */
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.logo-text h2 {
+  color: black;
+  font-size: 45px;
+  font-family: "Sedan", serif;
+  font-weight: 700;
+  font-style: normal;
+  display: inline-block;
+  letter-spacing: 1.2px;
+  cursor: pointer;
+}
+
+.navigation {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  text-align: center;
+  justify-content: space-between;
+  padding: 5px;
+}
+
+ul {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  text-align: center;
+  justify-content: space-between;
+  padding: 15px;
+}
+
+ul li {
+  list-style: none;
+  color: red;
+  margin-left: 60px;
+}
+
+ul li a {
+  text-decoration: none;
+  font-family: "Rajdhani", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  color: black;
+  font-size: 20px;
+}
+
+.navigation input[type="search"] {
+  border: 0.5px solid rgb(25, 123, 92);
+  border-radius: 4px;
+  cursor: pointer;
+  padding: 7px 7px;
+  letter-spacing: 1px;
+}
+
+.navigation button {
+  float: right;
+  padding: 6px 10px;
+  margin-top: 8px;
+  margin-right: 16px;
+  font-size: 17px;
+  border: none;
+  cursor: pointer;
+}
+
+nav {
+  margin-bottom: 10px;
+}
+
+/* for the hero page */
+.mySlides {
+  display: none;
+}
+
+img {
+  vertical-align: middle;
+}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1350px;
+  position: relative;
+  margin: auto;
+  border-radius: 4px;
+}
+
+/* Next & previous buttons */
+.prev,
+.next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 16px;
+  margin-top: -22px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover,
+.next:hover {
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+/* Caption text */
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active,
+.dot:hover {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@keyframes fade {
+  from {
+    opacity: 0.4;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+
+  .prev,
+  .next,
+  .text {
+    font-size: 11px;
+  }
+}
+
+.about-page {
+  margin-top: 30px;
+}
+
+.about-text {
+  display: block;
+  margin-left: 60px;
+  align-items: center;
+}
+
+.about-text h4 {
+  font-family: "Nunito Sans", sans-serif;
+  font-weight: 900;
+  font-size: 28px;
+  margin-bottom: 20px;
+}
+
+.about-text p {
+  font-family: "PT Sans", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 23px;
+  line-height: 1.8;
+}
+
+.fashion-type {
+  margin: 30px 0px 0px 60px;
+  display: block;
+}
+
+.sub-menu {
+  display: flex;
+  margin-right: 40px;
+  text-align: center;
+  align-items: center;
+}
+
+.sub-menu button {
+  background-color: white;
+  border: none;
+  padding: 10px 20px;
+  margin: 0 5px;
+  cursor: pointer;
+  font-family: "Rajdhani", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  color: black;
+  font-size: 30px;
+  text-decoration: none;
+}
+
+.sub-menu button:hover {
+  text-decoration: underline 1.5px solid black;
+}
+
+#content {
+  display: flex;
+  margin-top: 20px;
+  width: 100%;
+}
+
+.item-container {
+  display: none;
+  flex-direction: column;
+  align-items: center;
+}
+
+.item-flex {
+  display: flex;
+  flex-direction: row;
+  gap: 18px;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  margin-left: 30px;
+}
+
+.item-card {
+  margin: 10px;
+  width: 320px;
+  height: 390px;
+  border: 1px solid #ccc;
+  position: relative;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  transition: transform 0.3s ease, background-color 0.3s ease, opacity 0.3s ease;
+}
+
+.hover-pic,
+.original-pic {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  transition: opacity 0.5s ease;
+}
+
+.hover-pic {
+  opacity: 0;
+}
+
+.item-card:hover .hover-pic {
+  opacity: 1;
+}
+
+.item-card img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.item-card:hover {
+  opacity: 0.8;
+  cursor: pointer;
+  transform: scale(1.1);
+  box-shadow: 2px 1px 0.5px grey;
+}
+
+.item-card p {
+  font-family: "PT Sans", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 15px;
+}
+
+.item-card h2 {
+  font-family: "Nunito Sans", sans-serif;
+  font-weight: 900;
+  font-size: 19px;
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  color: white;
+}
+
+.item-card h3 {
+  font-family: "Nunito Sans", sans-serif;
+  font-weight: 900;
+  font-size: 19px;
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  color: black;
+}
+
+.poster {
+  margin-top: 40px;
+}
+
+.poster-container img {
+  width: 100%;
+  height: 311px;
+  object-fit: cover;
+}
+
+.poster-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  background-color: #bab9b8;
+  cursor: pointer;
+  height: 311px;
+}
+
+.poster-text {
+  font-family: "Reddit Mono", monospace;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.poster-text p {
+  position: absolute;
+  left: 2px;
+  background-color: rgb(174, 45, 45);
+  color: black;
+  padding: 10px;
+  border-bottom-right-radius: 10%;
+}
+
+.poster-text p:hover {
+  color: white;
+}
+
+.poster-text h2 {
+  margin-top: 120px;
+  font-size: 44px;
+  font-family: "Reddit Mono", monospace;
+}
+
+
+/* for the photo frame collection */
+.gridx {
+  display: block;
+  margin: 0 auto;
+  align-items: center;
+}
+
+.section-photo-grid {
+  display: flex;
+  margin-top: 120px;
+  grid-template-columns: repeat(2, 1fr);
+
+
+}
+
+.section-photo-grid img {
+  width: 700px;
+  height: auto;
+}
+
+.frame-text h3 {
+  font-size: 32px;
+  color: black;
+  display: block;
+  margin: 0 auto;
+  align-items: center;
+  text-align: center;
+  float: left;
+  font-family: "Nunito Sans", sans-serif;
+}
+
+.frame-text {
+  display: flex;
+  flex-direction: column;
+  row-gap: 30px;
+  margin-top: 150px;
+}
+
+.frame-text p {
+  margin-left: 50px;
+  font-family: "PT Sans", sans-serif;
+  font-size: 19px;
+}
+
+.gridx {
+  margin-bottom: 50px;
+}
+
+/* for the latest news design */
+.latest-news {
+  background-color: #F6F6F6;
+}
+
+.news-title span {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  align-items: center;
+  color: red;
+  font-family: "Cactus Classical Serif", serif;
+  font-weight: 500;
+}
+
+.fashion-trend h3 {
+  font-family: "Cactus Classical Serif", serif;
+  font-weight: 700;
+  color: black;
+  font-size: 43px;
+  display: block;
+  align-items: center;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+
+}
+
+.flex-card {
+  display: flex;
+  flex-direction: row;
+  margin: 44px 5% 45px 5%;
+
+}
+
+.card {
+  width: 30%;
+  margin: 2%;
+}
+
+.card img {
+  width: 100%;
+  object-fit: cover;
+  height: 50%;
+}
+.card-body h5 {
+  font-family: "Nunito Sans", sans-serif;
+  font-size: 18px;
+  display: block;
+  margin-top: 5px;
+  margin-bottom: 11px;
+  color: #74706B;
+  font-weight: 300;
+}
+
+.card-body h3 {
+  font-size: 22px;
+  line-height: 1.4;
+  margin-bottom: 12px;
+  font-weight: 500;
+  display: block;
+  color: #292621;
+  font-family: "Jost", sans-serif;
+
+}
+.card-body{
+  flex: 1;
+
+}
+.card-body h3:hover {
+  color: #dc3545;
+  cursor: pointer;
+}
+
+.card-body a {
+  text-decoration: underline;
+  font-family: "Jost", sans-serif;
+  color: #292621;
+  font-weight: 600;
+
+}
+.card-body a:hover{
+  word-spacing: 2px;
+  letter-spacing: 1.1px;
+}
+
+/* service card */
+.card-service{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 0px 150px 0px 150px;
+}
+.service-1{
+  text-align: center;
+  margin: 0 auto;
+  display: block;
+  align-items: center;
+  padding: 20px;
+  
+}
+
+.service-1 img{
+  margin-right: 20px;
+  margin-bottom: 26px;
+}
+.service-1 h3{
+  display: block;
+  text-transform: capitalize;
+  font-weight: 500;
+  font-size: 20px;
+  font-family: "Jost", sans-serif;
+  color: #2B2B2B;
+  margin-bottom: 12px;
+
+}
+.service-1 p{
+  font-family: "Jost", sans-serif;
+  font-size: 16px;
+  color: #57667e;
+}
+
+/* footer */
+
+
